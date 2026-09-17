@@ -1,0 +1,501 @@
+Date,Salesperson,Region,Product,Category,Quantity,Unit Price,Cost
+2025-01-01,Amanda Martinez,East,Standing Desk,Furniture,2,599.99,360.0
+2025-01-02,Michael Scott,East,Smart RGB Light Strip,Lighting,32,34.99,14.0
+2025-01-02,Emily Chen,North,3-Drawer Filing Cabinet,Furniture,1,179.99,95.0
+2025-01-02,David Miller,South,Heavy-Duty Stapler,Office Supplies,34,24.99,10.0
+2025-01-04,Robert Chen,West,Wireless Mouse,Electronics,42,29.99,12.0
+2025-01-04,Robert Chen,West,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-01-05,Sarah Jenkins,West,Heavy-Duty Stapler,Office Supplies,8,24.99,10.0
+2025-01-05,David Miller,South,3-Drawer Filing Cabinet,Furniture,1,179.99,95.0
+2025-01-06,Robert Chen,West,Cross-Cut Paper Shredder,Office Supplies,12,79.99,40.0
+2025-01-09,David Miller,South,LED Architect Desk Lamp,Lighting,33,49.99,22.0
+2025-01-09,Michael Scott,East,Standing Desk,Furniture,3,599.99,360.0
+2025-01-10,Sarah Jenkins,West,3-Drawer Filing Cabinet,Furniture,10,179.99,95.0
+2025-01-13,David Miller,South,Standing Desk,Furniture,2,599.99,360.0
+2025-01-13,Emily Chen,North,Whiteboard 4x3,Office Supplies,23,89.99,42.0
+2025-01-14,Emily Chen,North,Standing Desk,Furniture,2,599.99,360.0
+2025-01-15,Jessica Taylor,Central,USB-C Docking Station,Electronics,12,119.99,60.0
+2025-01-15,Sarah Jenkins,West,Whiteboard 4x3,Office Supplies,37,89.99,42.0
+2025-01-16,Sarah Jenkins,West,Ergonomic Office Chair,Furniture,7,299.99,160.0
+2025-01-17,Jessica Taylor,Central,Heavy-Duty Stapler,Office Supplies,32,24.99,10.0
+2025-01-18,David Miller,South,LED Architect Desk Lamp,Lighting,36,49.99,22.0
+2025-01-20,Sarah Jenkins,West,Whiteboard 4x3,Office Supplies,11,89.99,42.0
+2025-01-21,Emily Chen,North,Cross-Cut Paper Shredder,Office Supplies,33,79.99,40.0
+2025-01-21,Emily Chen,North,Laptop Pro 15,Electronics,1,1250.0,850.0
+2025-01-22,Robert Chen,West,3-Drawer Filing Cabinet,Furniture,9,179.99,95.0
+2025-01-22,Michael Scott,East,27-inch 4K Monitor,Electronics,7,349.99,210.0
+2025-01-23,Sarah Jenkins,West,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-01-26,David Miller,South,Ergonomic Office Chair,Furniture,8,299.99,160.0
+2025-01-27,Jessica Taylor,Central,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-01-28,Jessica Taylor,Central,Ergonomic Keyboard,Electronics,12,89.99,45.0
+2025-01-28,David Miller,South,Cross-Cut Paper Shredder,Office Supplies,41,79.99,40.0
+2025-01-29,Amanda Martinez,East,27-inch 4K Monitor,Electronics,3,349.99,210.0
+2025-02-02,James Wilson,North,Whiteboard 4x3,Office Supplies,37,89.99,42.0
+2025-02-02,Michael Scott,East,Whiteboard 4x3,Office Supplies,32,89.99,42.0
+2025-02-04,Jessica Taylor,Central,Whiteboard 4x3,Office Supplies,12,89.99,42.0
+2025-02-04,Sarah Jenkins,West,Ergonomic Office Chair,Furniture,2,299.99,160.0
+2025-02-04,Michael Scott,East,USB-C Docking Station,Electronics,3,119.99,60.0
+2025-02-05,Sarah Jenkins,West,Heavy-Duty Stapler,Office Supplies,36,24.99,10.0
+2025-02-05,Amanda Martinez,East,3-Drawer Filing Cabinet,Furniture,8,179.99,95.0
+2025-02-06,Emily Chen,North,Smart RGB Light Strip,Lighting,18,34.99,14.0
+2025-02-06,Michael Scott,East,Executive Desk,Furniture,3,850.0,520.0
+2025-02-07,Robert Chen,West,Heavy-Duty Stapler,Office Supplies,20,24.99,10.0
+2025-02-08,Jessica Taylor,Central,Ergonomic Office Chair,Furniture,4,299.99,160.0
+2025-02-08,Michael Scott,East,Wireless Mouse,Electronics,41,29.99,12.0
+2025-02-08,Michael Scott,East,Cross-Cut Paper Shredder,Office Supplies,25,79.99,40.0
+2025-02-10,Michael Scott,East,3-Drawer Filing Cabinet,Furniture,14,179.99,95.0
+2025-02-10,James Wilson,North,Heavy-Duty Stapler,Office Supplies,35,24.99,10.0
+2025-02-11,Michael Scott,East,LED Architect Desk Lamp,Lighting,22,49.99,22.0
+2025-02-13,Sarah Jenkins,West,Ergonomic Office Chair,Furniture,7,299.99,160.0
+2025-02-13,Emily Chen,North,Ergonomic Keyboard,Electronics,14,89.99,45.0
+2025-02-14,Amanda Martinez,East,Executive Desk,Furniture,1,850.0,520.0
+2025-02-15,David Miller,South,Ergonomic Keyboard,Electronics,27,89.99,45.0
+2025-02-16,Michael Scott,East,Whiteboard 4x3,Office Supplies,25,89.99,42.0
+2025-02-16,Jessica Taylor,Central,Executive Desk,Furniture,3,850.0,520.0
+2025-02-17,Michael Scott,East,Heavy-Duty Stapler,Office Supplies,23,24.99,10.0
+2025-02-17,Jessica Taylor,Central,LED Architect Desk Lamp,Lighting,40,49.99,22.0
+2025-02-18,Sarah Jenkins,West,Whiteboard 4x3,Office Supplies,33,89.99,42.0
+2025-02-18,Jessica Taylor,Central,Smart RGB Light Strip,Lighting,22,34.99,14.0
+2025-02-19,Robert Chen,West,Cross-Cut Paper Shredder,Office Supplies,6,79.99,40.0
+2025-02-20,David Miller,South,Wireless Mouse,Electronics,5,29.99,12.0
+2025-02-20,Emily Chen,North,3-Drawer Filing Cabinet,Furniture,5,179.99,95.0
+2025-02-20,Jessica Taylor,Central,USB-C Docking Station,Electronics,4,119.99,60.0
+2025-02-21,Jessica Taylor,Central,Ergonomic Keyboard,Electronics,15,89.99,45.0
+2025-02-21,Emily Chen,North,Ergonomic Keyboard,Electronics,46,89.99,45.0
+2025-02-22,David Miller,South,Whiteboard 4x3,Office Supplies,6,89.99,42.0
+2025-02-22,Michael Scott,East,Standing Desk,Furniture,3,599.99,360.0
+2025-02-22,Jessica Taylor,Central,Executive Desk,Furniture,4,850.0,520.0
+2025-02-22,Emily Chen,North,Noise-Canceling Headset,Electronics,4,149.99,75.0
+2025-02-23,Robert Chen,West,Smart RGB Light Strip,Lighting,9,34.99,14.0
+2025-02-23,Robert Chen,West,3-Drawer Filing Cabinet,Furniture,5,179.99,95.0
+2025-02-23,Sarah Jenkins,West,Executive Desk,Furniture,1,850.0,520.0
+2025-02-23,Emily Chen,North,Standing Desk,Furniture,2,599.99,360.0
+2025-02-23,Sarah Jenkins,West,Laptop Pro 15,Electronics,5,1250.0,850.0
+2025-02-24,Robert Chen,West,Executive Desk,Furniture,4,850.0,520.0
+2025-02-27,David Miller,South,USB-C Docking Station,Electronics,3,119.99,60.0
+2025-02-27,Michael Scott,East,3-Drawer Filing Cabinet,Furniture,4,179.99,95.0
+2025-02-27,Emily Chen,North,Heavy-Duty Stapler,Office Supplies,26,24.99,10.0
+2025-02-27,Amanda Martinez,East,Smart RGB Light Strip,Lighting,48,34.99,14.0
+2025-02-28,Robert Chen,West,Standing Desk,Furniture,1,599.99,360.0
+2025-03-01,Robert Chen,West,Laptop Pro 15,Electronics,2,1250.0,850.0
+2025-03-01,Amanda Martinez,East,Cross-Cut Paper Shredder,Office Supplies,34,79.99,40.0
+2025-03-03,James Wilson,North,27-inch 4K Monitor,Electronics,8,349.99,210.0
+2025-03-03,Robert Chen,West,Standing Desk,Furniture,3,599.99,360.0
+2025-03-04,Jessica Taylor,Central,27-inch 4K Monitor,Electronics,14,349.99,210.0
+2025-03-04,David Miller,South,3-Drawer Filing Cabinet,Furniture,7,179.99,95.0
+2025-03-04,Emily Chen,North,Ergonomic Keyboard,Electronics,36,89.99,45.0
+2025-03-06,Amanda Martinez,East,Standing Desk,Furniture,1,599.99,360.0
+2025-03-07,Jessica Taylor,Central,Cross-Cut Paper Shredder,Office Supplies,21,79.99,40.0
+2025-03-09,Amanda Martinez,East,Wireless Mouse,Electronics,18,29.99,12.0
+2025-03-10,Emily Chen,North,Whiteboard 4x3,Office Supplies,13,89.99,42.0
+2025-03-10,Sarah Jenkins,West,27-inch 4K Monitor,Electronics,8,349.99,210.0
+2025-03-13,Emily Chen,North,Whiteboard 4x3,Office Supplies,6,89.99,42.0
+2025-03-16,James Wilson,North,USB-C Docking Station,Electronics,13,119.99,60.0
+2025-03-17,Emily Chen,North,Wireless Mouse,Electronics,29,29.99,12.0
+2025-03-22,Emily Chen,North,Whiteboard 4x3,Office Supplies,43,89.99,42.0
+2025-03-22,James Wilson,North,Ergonomic Office Chair,Furniture,9,299.99,160.0
+2025-03-22,David Miller,South,Ergonomic Office Chair,Furniture,6,299.99,160.0
+2025-03-27,Robert Chen,West,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-03-27,Emily Chen,North,Smart RGB Light Strip,Lighting,8,34.99,14.0
+2025-03-29,James Wilson,North,Ergonomic Keyboard,Electronics,30,89.99,45.0
+2025-03-30,Jessica Taylor,Central,3-Drawer Filing Cabinet,Furniture,10,179.99,95.0
+2025-03-30,Sarah Jenkins,West,Standing Desk,Furniture,5,599.99,360.0
+2025-04-02,Sarah Jenkins,West,Noise-Canceling Headset,Electronics,13,149.99,75.0
+2025-04-02,Emily Chen,North,USB-C Docking Station,Electronics,2,119.99,60.0
+2025-04-02,David Miller,South,27-inch 4K Monitor,Electronics,7,349.99,210.0
+2025-04-04,David Miller,South,3-Drawer Filing Cabinet,Furniture,5,179.99,95.0
+2025-04-05,Jessica Taylor,Central,Wireless Mouse,Electronics,15,29.99,12.0
+2025-04-06,Emily Chen,North,LED Architect Desk Lamp,Lighting,10,49.99,22.0
+2025-04-06,Sarah Jenkins,West,Ergonomic Office Chair,Furniture,2,299.99,160.0
+2025-04-06,David Miller,South,LED Architect Desk Lamp,Lighting,25,49.99,22.0
+2025-04-06,Emily Chen,North,Cross-Cut Paper Shredder,Office Supplies,46,79.99,40.0
+2025-04-07,Amanda Martinez,East,USB-C Docking Station,Electronics,4,119.99,60.0
+2025-04-07,David Miller,South,Noise-Canceling Headset,Electronics,9,149.99,75.0
+2025-04-08,James Wilson,North,Standing Desk,Furniture,2,599.99,360.0
+2025-04-09,Amanda Martinez,East,Laptop Pro 15,Electronics,1,1250.0,850.0
+2025-04-09,Robert Chen,West,Noise-Canceling Headset,Electronics,5,149.99,75.0
+2025-04-09,David Miller,South,USB-C Docking Station,Electronics,9,119.99,60.0
+2025-04-09,Sarah Jenkins,West,Noise-Canceling Headset,Electronics,6,149.99,75.0
+2025-04-09,Michael Scott,East,USB-C Docking Station,Electronics,10,119.99,60.0
+2025-04-09,Amanda Martinez,East,USB-C Docking Station,Electronics,12,119.99,60.0
+2025-04-10,Robert Chen,West,Executive Desk,Furniture,5,850.0,520.0
+2025-04-10,Jessica Taylor,Central,27-inch 4K Monitor,Electronics,10,349.99,210.0
+2025-04-10,Jessica Taylor,Central,Heavy-Duty Stapler,Office Supplies,26,24.99,10.0
+2025-04-11,Sarah Jenkins,West,LED Architect Desk Lamp,Lighting,25,49.99,22.0
+2025-04-11,David Miller,South,Heavy-Duty Stapler,Office Supplies,31,24.99,10.0
+2025-04-11,Emily Chen,North,Heavy-Duty Stapler,Office Supplies,35,24.99,10.0
+2025-04-13,David Miller,South,Heavy-Duty Stapler,Office Supplies,10,24.99,10.0
+2025-04-13,Sarah Jenkins,West,Whiteboard 4x3,Office Supplies,31,89.99,42.0
+2025-04-13,Jessica Taylor,Central,Ergonomic Office Chair,Furniture,8,299.99,160.0
+2025-04-14,David Miller,South,Executive Desk,Furniture,2,850.0,520.0
+2025-04-14,Jessica Taylor,Central,Standing Desk,Furniture,4,599.99,360.0
+2025-04-16,Amanda Martinez,East,Executive Desk,Furniture,5,850.0,520.0
+2025-04-16,Robert Chen,West,Ergonomic Keyboard,Electronics,11,89.99,45.0
+2025-04-17,Emily Chen,North,Ergonomic Keyboard,Electronics,14,89.99,45.0
+2025-04-18,Amanda Martinez,East,Whiteboard 4x3,Office Supplies,49,89.99,42.0
+2025-04-18,Jessica Taylor,Central,Ergonomic Office Chair,Furniture,1,299.99,160.0
+2025-04-22,Jessica Taylor,Central,Noise-Canceling Headset,Electronics,10,149.99,75.0
+2025-04-22,Michael Scott,East,27-inch 4K Monitor,Electronics,5,349.99,210.0
+2025-04-23,Michael Scott,East,Ergonomic Office Chair,Furniture,12,299.99,160.0
+2025-04-23,Amanda Martinez,East,Whiteboard 4x3,Office Supplies,6,89.99,42.0
+2025-04-23,James Wilson,North,USB-C Docking Station,Electronics,12,119.99,60.0
+2025-04-23,Amanda Martinez,East,Wireless Mouse,Electronics,47,29.99,12.0
+2025-04-23,Michael Scott,East,27-inch 4K Monitor,Electronics,1,349.99,210.0
+2025-04-24,Jessica Taylor,Central,Smart RGB Light Strip,Lighting,40,34.99,14.0
+2025-04-26,Sarah Jenkins,West,LED Architect Desk Lamp,Lighting,30,49.99,22.0
+2025-04-26,Amanda Martinez,East,27-inch 4K Monitor,Electronics,13,349.99,210.0
+2025-04-26,Jessica Taylor,Central,Whiteboard 4x3,Office Supplies,25,89.99,42.0
+2025-04-27,Sarah Jenkins,West,USB-C Docking Station,Electronics,11,119.99,60.0
+2025-04-28,Sarah Jenkins,West,USB-C Docking Station,Electronics,8,119.99,60.0
+2025-04-30,Michael Scott,East,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-04-30,Amanda Martinez,East,Heavy-Duty Stapler,Office Supplies,40,24.99,10.0
+2025-05-01,David Miller,South,Ergonomic Office Chair,Furniture,1,299.99,160.0
+2025-05-02,Emily Chen,North,USB-C Docking Station,Electronics,11,119.99,60.0
+2025-05-02,Michael Scott,East,Ergonomic Keyboard,Electronics,43,89.99,45.0
+2025-05-03,Michael Scott,East,Heavy-Duty Stapler,Office Supplies,44,24.99,10.0
+2025-05-04,David Miller,South,Standing Desk,Furniture,3,599.99,360.0
+2025-05-04,Emily Chen,North,Wireless Mouse,Electronics,38,29.99,12.0
+2025-05-05,Jessica Taylor,Central,Whiteboard 4x3,Office Supplies,28,89.99,42.0
+2025-05-06,James Wilson,North,LED Architect Desk Lamp,Lighting,26,49.99,22.0
+2025-05-06,Amanda Martinez,East,Ergonomic Office Chair,Furniture,5,299.99,160.0
+2025-05-07,James Wilson,North,3-Drawer Filing Cabinet,Furniture,8,179.99,95.0
+2025-05-07,Jessica Taylor,Central,Ergonomic Keyboard,Electronics,37,89.99,45.0
+2025-05-08,Robert Chen,West,Cross-Cut Paper Shredder,Office Supplies,40,79.99,40.0
+2025-05-08,Michael Scott,East,Smart RGB Light Strip,Lighting,24,34.99,14.0
+2025-05-08,Emily Chen,North,Noise-Canceling Headset,Electronics,3,149.99,75.0
+2025-05-08,Michael Scott,East,USB-C Docking Station,Electronics,3,119.99,60.0
+2025-05-09,Sarah Jenkins,West,3-Drawer Filing Cabinet,Furniture,4,179.99,95.0
+2025-05-09,Michael Scott,East,USB-C Docking Station,Electronics,11,119.99,60.0
+2025-05-09,Michael Scott,East,27-inch 4K Monitor,Electronics,1,349.99,210.0
+2025-05-10,Jessica Taylor,Central,Ergonomic Keyboard,Electronics,49,89.99,45.0
+2025-05-10,Jessica Taylor,Central,27-inch 4K Monitor,Electronics,11,349.99,210.0
+2025-05-11,Jessica Taylor,Central,Laptop Pro 15,Electronics,2,1250.0,850.0
+2025-05-11,James Wilson,North,27-inch 4K Monitor,Electronics,9,349.99,210.0
+2025-05-11,Sarah Jenkins,West,Laptop Pro 15,Electronics,2,1250.0,850.0
+2025-05-11,Robert Chen,West,Smart RGB Light Strip,Lighting,6,34.99,14.0
+2025-05-14,Robert Chen,West,Whiteboard 4x3,Office Supplies,13,89.99,42.0
+2025-05-15,Jessica Taylor,Central,Laptop Pro 15,Electronics,1,1250.0,850.0
+2025-05-15,Emily Chen,North,3-Drawer Filing Cabinet,Furniture,8,179.99,95.0
+2025-05-15,James Wilson,North,Heavy-Duty Stapler,Office Supplies,21,24.99,10.0
+2025-05-16,David Miller,South,USB-C Docking Station,Electronics,1,119.99,60.0
+2025-05-17,Emily Chen,North,Noise-Canceling Headset,Electronics,9,149.99,75.0
+2025-05-19,Amanda Martinez,East,Heavy-Duty Stapler,Office Supplies,47,24.99,10.0
+2025-05-20,Amanda Martinez,East,LED Architect Desk Lamp,Lighting,44,49.99,22.0
+2025-05-22,Emily Chen,North,Whiteboard 4x3,Office Supplies,46,89.99,42.0
+2025-05-23,Jessica Taylor,Central,27-inch 4K Monitor,Electronics,9,349.99,210.0
+2025-05-23,David Miller,South,Cross-Cut Paper Shredder,Office Supplies,43,79.99,40.0
+2025-05-24,David Miller,South,LED Architect Desk Lamp,Lighting,39,49.99,22.0
+2025-05-24,James Wilson,North,Ergonomic Keyboard,Electronics,7,89.99,45.0
+2025-05-24,David Miller,South,Laptop Pro 15,Electronics,2,1250.0,850.0
+2025-05-24,Amanda Martinez,East,USB-C Docking Station,Electronics,5,119.99,60.0
+2025-05-25,Sarah Jenkins,West,Wireless Mouse,Electronics,48,29.99,12.0
+2025-05-27,Jessica Taylor,Central,Ergonomic Office Chair,Furniture,12,299.99,160.0
+2025-05-27,David Miller,South,3-Drawer Filing Cabinet,Furniture,3,179.99,95.0
+2025-05-27,James Wilson,North,Noise-Canceling Headset,Electronics,14,149.99,75.0
+2025-05-27,Amanda Martinez,East,Executive Desk,Furniture,2,850.0,520.0
+2025-05-27,Sarah Jenkins,West,3-Drawer Filing Cabinet,Furniture,12,179.99,95.0
+2025-05-28,Michael Scott,East,Smart RGB Light Strip,Lighting,23,34.99,14.0
+2025-05-28,Michael Scott,East,Wireless Mouse,Electronics,41,29.99,12.0
+2025-05-30,Sarah Jenkins,West,Cross-Cut Paper Shredder,Office Supplies,48,79.99,40.0
+2025-05-30,Amanda Martinez,East,Ergonomic Office Chair,Furniture,11,299.99,160.0
+2025-05-31,James Wilson,North,Wireless Mouse,Electronics,21,29.99,12.0
+2025-05-31,Sarah Jenkins,West,27-inch 4K Monitor,Electronics,10,349.99,210.0
+2025-06-01,Jessica Taylor,Central,Laptop Pro 15,Electronics,1,1250.0,850.0
+2025-06-01,Jessica Taylor,Central,Whiteboard 4x3,Office Supplies,16,89.99,42.0
+2025-06-01,Michael Scott,East,Noise-Canceling Headset,Electronics,14,149.99,75.0
+2025-06-02,David Miller,South,Standing Desk,Furniture,3,599.99,360.0
+2025-06-02,James Wilson,North,Laptop Pro 15,Electronics,5,1250.0,850.0
+2025-06-03,Michael Scott,East,Standing Desk,Furniture,1,599.99,360.0
+2025-06-04,David Miller,South,LED Architect Desk Lamp,Lighting,27,49.99,22.0
+2025-06-06,David Miller,South,Whiteboard 4x3,Office Supplies,41,89.99,42.0
+2025-06-07,Robert Chen,West,Ergonomic Office Chair,Furniture,6,299.99,160.0
+2025-06-07,Jessica Taylor,Central,USB-C Docking Station,Electronics,6,119.99,60.0
+2025-06-07,Amanda Martinez,East,Executive Desk,Furniture,1,850.0,520.0
+2025-06-09,Emily Chen,North,Ergonomic Keyboard,Electronics,22,89.99,45.0
+2025-06-09,Amanda Martinez,East,Heavy-Duty Stapler,Office Supplies,29,24.99,10.0
+2025-06-09,Emily Chen,North,Whiteboard 4x3,Office Supplies,16,89.99,42.0
+2025-06-09,Sarah Jenkins,West,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-06-10,Jessica Taylor,Central,Noise-Canceling Headset,Electronics,10,149.99,75.0
+2025-06-10,David Miller,South,Heavy-Duty Stapler,Office Supplies,45,24.99,10.0
+2025-06-10,James Wilson,North,Smart RGB Light Strip,Lighting,49,34.99,14.0
+2025-06-10,Emily Chen,North,Smart RGB Light Strip,Lighting,30,34.99,14.0
+2025-06-11,Amanda Martinez,East,Wireless Mouse,Electronics,36,29.99,12.0
+2025-06-12,David Miller,South,Heavy-Duty Stapler,Office Supplies,14,24.99,10.0
+2025-06-12,Emily Chen,North,Noise-Canceling Headset,Electronics,7,149.99,75.0
+2025-06-14,Emily Chen,North,Ergonomic Office Chair,Furniture,1,299.99,160.0
+2025-06-16,Robert Chen,West,LED Architect Desk Lamp,Lighting,27,49.99,22.0
+2025-06-18,Emily Chen,North,Standing Desk,Furniture,2,599.99,360.0
+2025-06-19,James Wilson,North,Wireless Mouse,Electronics,25,29.99,12.0
+2025-06-19,Jessica Taylor,Central,Smart RGB Light Strip,Lighting,26,34.99,14.0
+2025-06-19,James Wilson,North,Ergonomic Keyboard,Electronics,11,89.99,45.0
+2025-06-19,Michael Scott,East,Ergonomic Keyboard,Electronics,18,89.99,45.0
+2025-06-20,David Miller,South,Laptop Pro 15,Electronics,5,1250.0,850.0
+2025-06-21,Jessica Taylor,Central,Ergonomic Office Chair,Furniture,7,299.99,160.0
+2025-06-21,Robert Chen,West,USB-C Docking Station,Electronics,9,119.99,60.0
+2025-06-21,Jessica Taylor,Central,Smart RGB Light Strip,Lighting,12,34.99,14.0
+2025-06-21,Jessica Taylor,Central,Cross-Cut Paper Shredder,Office Supplies,27,79.99,40.0
+2025-06-22,Amanda Martinez,East,Ergonomic Office Chair,Furniture,13,299.99,160.0
+2025-06-23,Jessica Taylor,Central,LED Architect Desk Lamp,Lighting,22,49.99,22.0
+2025-06-24,Robert Chen,West,Standing Desk,Furniture,4,599.99,360.0
+2025-06-25,James Wilson,North,Noise-Canceling Headset,Electronics,7,149.99,75.0
+2025-06-25,Jessica Taylor,Central,Heavy-Duty Stapler,Office Supplies,39,24.99,10.0
+2025-06-28,Sarah Jenkins,West,Smart RGB Light Strip,Lighting,22,34.99,14.0
+2025-06-29,David Miller,South,Heavy-Duty Stapler,Office Supplies,46,24.99,10.0
+2025-06-29,Jessica Taylor,Central,Ergonomic Keyboard,Electronics,43,89.99,45.0
+2025-06-29,David Miller,South,Noise-Canceling Headset,Electronics,1,149.99,75.0
+2025-06-30,Sarah Jenkins,West,Noise-Canceling Headset,Electronics,14,149.99,75.0
+2025-07-03,Sarah Jenkins,West,Noise-Canceling Headset,Electronics,8,149.99,75.0
+2025-07-04,David Miller,South,Ergonomic Keyboard,Electronics,39,89.99,45.0
+2025-07-05,Emily Chen,North,LED Architect Desk Lamp,Lighting,48,49.99,22.0
+2025-07-06,Michael Scott,East,Heavy-Duty Stapler,Office Supplies,49,24.99,10.0
+2025-07-06,Amanda Martinez,East,3-Drawer Filing Cabinet,Furniture,2,179.99,95.0
+2025-07-06,Emily Chen,North,Heavy-Duty Stapler,Office Supplies,7,24.99,10.0
+2025-07-07,Emily Chen,North,27-inch 4K Monitor,Electronics,5,349.99,210.0
+2025-07-07,James Wilson,North,Standing Desk,Furniture,3,599.99,360.0
+2025-07-07,Amanda Martinez,East,Cross-Cut Paper Shredder,Office Supplies,44,79.99,40.0
+2025-07-08,Amanda Martinez,East,3-Drawer Filing Cabinet,Furniture,10,179.99,95.0
+2025-07-08,Emily Chen,North,Standing Desk,Furniture,4,599.99,360.0
+2025-07-09,Jessica Taylor,Central,Wireless Mouse,Electronics,43,29.99,12.0
+2025-07-09,James Wilson,North,Ergonomic Office Chair,Furniture,8,299.99,160.0
+2025-07-09,James Wilson,North,Ergonomic Office Chair,Furniture,1,299.99,160.0
+2025-07-09,Sarah Jenkins,West,Executive Desk,Furniture,4,850.0,520.0
+2025-07-10,Robert Chen,West,Ergonomic Office Chair,Furniture,13,299.99,160.0
+2025-07-10,Amanda Martinez,East,Heavy-Duty Stapler,Office Supplies,26,24.99,10.0
+2025-07-11,Emily Chen,North,Ergonomic Keyboard,Electronics,29,89.99,45.0
+2025-07-11,Sarah Jenkins,West,Cross-Cut Paper Shredder,Office Supplies,17,79.99,40.0
+2025-07-11,David Miller,South,USB-C Docking Station,Electronics,2,119.99,60.0
+2025-07-13,Michael Scott,East,Laptop Pro 15,Electronics,1,1250.0,850.0
+2025-07-14,Robert Chen,West,Executive Desk,Furniture,5,850.0,520.0
+2025-07-15,Robert Chen,West,Whiteboard 4x3,Office Supplies,46,89.99,42.0
+2025-07-17,Robert Chen,West,Whiteboard 4x3,Office Supplies,48,89.99,42.0
+2025-07-17,James Wilson,North,Laptop Pro 15,Electronics,2,1250.0,850.0
+2025-07-17,David Miller,South,Standing Desk,Furniture,3,599.99,360.0
+2025-07-18,Robert Chen,West,Laptop Pro 15,Electronics,2,1250.0,850.0
+2025-07-20,David Miller,South,Laptop Pro 15,Electronics,2,1250.0,850.0
+2025-07-20,Jessica Taylor,Central,Whiteboard 4x3,Office Supplies,34,89.99,42.0
+2025-07-21,Robert Chen,West,Executive Desk,Furniture,3,850.0,520.0
+2025-07-22,Michael Scott,East,Wireless Mouse,Electronics,17,29.99,12.0
+2025-07-23,David Miller,South,Heavy-Duty Stapler,Office Supplies,17,24.99,10.0
+2025-07-25,David Miller,South,Noise-Canceling Headset,Electronics,2,149.99,75.0
+2025-07-26,Michael Scott,East,Ergonomic Office Chair,Furniture,3,299.99,160.0
+2025-07-27,Robert Chen,West,Ergonomic Office Chair,Furniture,11,299.99,160.0
+2025-07-27,Michael Scott,East,Ergonomic Keyboard,Electronics,43,89.99,45.0
+2025-07-27,David Miller,South,Executive Desk,Furniture,4,850.0,520.0
+2025-08-01,Michael Scott,East,Ergonomic Keyboard,Electronics,33,89.99,45.0
+2025-08-02,David Miller,South,USB-C Docking Station,Electronics,14,119.99,60.0
+2025-08-03,David Miller,South,USB-C Docking Station,Electronics,1,119.99,60.0
+2025-08-03,Jessica Taylor,Central,Ergonomic Keyboard,Electronics,33,89.99,45.0
+2025-08-03,Emily Chen,North,Executive Desk,Furniture,5,850.0,520.0
+2025-08-04,David Miller,South,Ergonomic Keyboard,Electronics,48,89.99,45.0
+2025-08-05,Robert Chen,West,Ergonomic Office Chair,Furniture,9,299.99,160.0
+2025-08-06,Sarah Jenkins,West,3-Drawer Filing Cabinet,Furniture,8,179.99,95.0
+2025-08-06,James Wilson,North,27-inch 4K Monitor,Electronics,12,349.99,210.0
+2025-08-06,Amanda Martinez,East,Whiteboard 4x3,Office Supplies,14,89.99,42.0
+2025-08-06,Emily Chen,North,Whiteboard 4x3,Office Supplies,34,89.99,42.0
+2025-08-08,Emily Chen,North,Cross-Cut Paper Shredder,Office Supplies,29,79.99,40.0
+2025-08-08,Emily Chen,North,Laptop Pro 15,Electronics,4,1250.0,850.0
+2025-08-08,Jessica Taylor,Central,27-inch 4K Monitor,Electronics,5,349.99,210.0
+2025-08-10,David Miller,South,Heavy-Duty Stapler,Office Supplies,5,24.99,10.0
+2025-08-10,Jessica Taylor,Central,Executive Desk,Furniture,1,850.0,520.0
+2025-08-11,David Miller,South,LED Architect Desk Lamp,Lighting,7,49.99,22.0
+2025-08-11,Robert Chen,West,27-inch 4K Monitor,Electronics,13,349.99,210.0
+2025-08-12,Jessica Taylor,Central,Cross-Cut Paper Shredder,Office Supplies,18,79.99,40.0
+2025-08-13,Jessica Taylor,Central,USB-C Docking Station,Electronics,8,119.99,60.0
+2025-08-13,James Wilson,North,Standing Desk,Furniture,2,599.99,360.0
+2025-08-13,Sarah Jenkins,West,Laptop Pro 15,Electronics,4,1250.0,850.0
+2025-08-14,Jessica Taylor,Central,Cross-Cut Paper Shredder,Office Supplies,22,79.99,40.0
+2025-08-15,James Wilson,North,Noise-Canceling Headset,Electronics,14,149.99,75.0
+2025-08-15,Michael Scott,East,LED Architect Desk Lamp,Lighting,41,49.99,22.0
+2025-08-17,Sarah Jenkins,West,Executive Desk,Furniture,1,850.0,520.0
+2025-08-18,Robert Chen,West,Laptop Pro 15,Electronics,1,1250.0,850.0
+2025-08-19,Jessica Taylor,Central,Heavy-Duty Stapler,Office Supplies,19,24.99,10.0
+2025-08-19,Amanda Martinez,East,27-inch 4K Monitor,Electronics,9,349.99,210.0
+2025-08-19,Emily Chen,North,USB-C Docking Station,Electronics,1,119.99,60.0
+2025-08-19,Michael Scott,East,Wireless Mouse,Electronics,28,29.99,12.0
+2025-08-21,Michael Scott,East,3-Drawer Filing Cabinet,Furniture,4,179.99,95.0
+2025-08-21,Robert Chen,West,Noise-Canceling Headset,Electronics,12,149.99,75.0
+2025-08-21,James Wilson,North,LED Architect Desk Lamp,Lighting,41,49.99,22.0
+2025-08-21,Michael Scott,East,3-Drawer Filing Cabinet,Furniture,13,179.99,95.0
+2025-08-22,Sarah Jenkins,West,Laptop Pro 15,Electronics,5,1250.0,850.0
+2025-08-24,Jessica Taylor,Central,USB-C Docking Station,Electronics,11,119.99,60.0
+2025-08-25,Jessica Taylor,Central,USB-C Docking Station,Electronics,12,119.99,60.0
+2025-08-25,Amanda Martinez,East,Cross-Cut Paper Shredder,Office Supplies,10,79.99,40.0
+2025-08-25,Robert Chen,West,Whiteboard 4x3,Office Supplies,43,89.99,42.0
+2025-08-26,Emily Chen,North,Whiteboard 4x3,Office Supplies,28,89.99,42.0
+2025-08-26,James Wilson,North,27-inch 4K Monitor,Electronics,11,349.99,210.0
+2025-08-27,Emily Chen,North,Cross-Cut Paper Shredder,Office Supplies,17,79.99,40.0
+2025-08-28,Michael Scott,East,Ergonomic Office Chair,Furniture,2,299.99,160.0
+2025-08-29,Robert Chen,West,27-inch 4K Monitor,Electronics,9,349.99,210.0
+2025-08-30,Amanda Martinez,East,Ergonomic Office Chair,Furniture,7,299.99,160.0
+2025-08-31,Emily Chen,North,Whiteboard 4x3,Office Supplies,8,89.99,42.0
+2025-09-01,Sarah Jenkins,West,Cross-Cut Paper Shredder,Office Supplies,12,79.99,40.0
+2025-09-03,Jessica Taylor,Central,Ergonomic Office Chair,Furniture,4,299.99,160.0
+2025-09-03,Michael Scott,East,Noise-Canceling Headset,Electronics,13,149.99,75.0
+2025-09-04,Amanda Martinez,East,Cross-Cut Paper Shredder,Office Supplies,49,79.99,40.0
+2025-09-04,Emily Chen,North,Whiteboard 4x3,Office Supplies,14,89.99,42.0
+2025-09-04,James Wilson,North,27-inch 4K Monitor,Electronics,11,349.99,210.0
+2025-09-07,Sarah Jenkins,West,Smart RGB Light Strip,Lighting,38,34.99,14.0
+2025-09-07,Sarah Jenkins,West,Cross-Cut Paper Shredder,Office Supplies,30,79.99,40.0
+2025-09-09,Emily Chen,North,Wireless Mouse,Electronics,45,29.99,12.0
+2025-09-09,Jessica Taylor,Central,LED Architect Desk Lamp,Lighting,7,49.99,22.0
+2025-09-09,Emily Chen,North,Whiteboard 4x3,Office Supplies,10,89.99,42.0
+2025-09-09,Michael Scott,East,Ergonomic Keyboard,Electronics,9,89.99,45.0
+2025-09-10,Emily Chen,North,Ergonomic Keyboard,Electronics,9,89.99,45.0
+2025-09-10,Sarah Jenkins,West,27-inch 4K Monitor,Electronics,6,349.99,210.0
+2025-09-11,Amanda Martinez,East,27-inch 4K Monitor,Electronics,7,349.99,210.0
+2025-09-11,Emily Chen,North,3-Drawer Filing Cabinet,Furniture,1,179.99,95.0
+2025-09-11,Jessica Taylor,Central,LED Architect Desk Lamp,Lighting,13,49.99,22.0
+2025-09-12,Robert Chen,West,LED Architect Desk Lamp,Lighting,39,49.99,22.0
+2025-09-12,Amanda Martinez,East,Noise-Canceling Headset,Electronics,4,149.99,75.0
+2025-09-13,James Wilson,North,27-inch 4K Monitor,Electronics,10,349.99,210.0
+2025-09-14,David Miller,South,LED Architect Desk Lamp,Lighting,46,49.99,22.0
+2025-09-14,Emily Chen,North,Heavy-Duty Stapler,Office Supplies,39,24.99,10.0
+2025-09-15,Jessica Taylor,Central,3-Drawer Filing Cabinet,Furniture,2,179.99,95.0
+2025-09-16,Amanda Martinez,East,Ergonomic Office Chair,Furniture,2,299.99,160.0
+2025-09-16,Jessica Taylor,Central,USB-C Docking Station,Electronics,14,119.99,60.0
+2025-09-17,James Wilson,North,USB-C Docking Station,Electronics,1,119.99,60.0
+2025-09-18,Sarah Jenkins,West,Ergonomic Office Chair,Furniture,8,299.99,160.0
+2025-09-19,Jessica Taylor,Central,Executive Desk,Furniture,3,850.0,520.0
+2025-09-20,Amanda Martinez,East,Whiteboard 4x3,Office Supplies,36,89.99,42.0
+2025-09-21,Jessica Taylor,Central,3-Drawer Filing Cabinet,Furniture,3,179.99,95.0
+2025-09-21,Jessica Taylor,Central,Heavy-Duty Stapler,Office Supplies,42,24.99,10.0
+2025-09-21,Jessica Taylor,Central,LED Architect Desk Lamp,Lighting,17,49.99,22.0
+2025-09-21,Michael Scott,East,Smart RGB Light Strip,Lighting,29,34.99,14.0
+2025-09-22,Michael Scott,East,3-Drawer Filing Cabinet,Furniture,9,179.99,95.0
+2025-09-24,Sarah Jenkins,West,Cross-Cut Paper Shredder,Office Supplies,8,79.99,40.0
+2025-09-25,Emily Chen,North,Ergonomic Office Chair,Furniture,14,299.99,160.0
+2025-09-25,Jessica Taylor,Central,Heavy-Duty Stapler,Office Supplies,41,24.99,10.0
+2025-09-26,James Wilson,North,Wireless Mouse,Electronics,38,29.99,12.0
+2025-09-27,Emily Chen,North,Standing Desk,Furniture,3,599.99,360.0
+2025-09-28,James Wilson,North,Laptop Pro 15,Electronics,1,1250.0,850.0
+2025-09-28,Emily Chen,North,Whiteboard 4x3,Office Supplies,7,89.99,42.0
+2025-09-28,Sarah Jenkins,West,Ergonomic Office Chair,Furniture,11,299.99,160.0
+2025-09-28,Jessica Taylor,Central,Smart RGB Light Strip,Lighting,32,34.99,14.0
+2025-09-29,Jessica Taylor,Central,LED Architect Desk Lamp,Lighting,33,49.99,22.0
+2025-09-30,David Miller,South,Smart RGB Light Strip,Lighting,13,34.99,14.0
+2025-10-01,James Wilson,North,Smart RGB Light Strip,Lighting,7,34.99,14.0
+2025-10-02,Emily Chen,North,27-inch 4K Monitor,Electronics,9,349.99,210.0
+2025-10-04,Emily Chen,North,27-inch 4K Monitor,Electronics,2,349.99,210.0
+2025-10-04,Robert Chen,West,Noise-Canceling Headset,Electronics,12,149.99,75.0
+2025-10-04,Robert Chen,West,Ergonomic Office Chair,Furniture,10,299.99,160.0
+2025-10-05,Michael Scott,East,Noise-Canceling Headset,Electronics,9,149.99,75.0
+2025-10-06,David Miller,South,Ergonomic Office Chair,Furniture,8,299.99,160.0
+2025-10-07,Amanda Martinez,East,Whiteboard 4x3,Office Supplies,29,89.99,42.0
+2025-10-07,Robert Chen,West,3-Drawer Filing Cabinet,Furniture,5,179.99,95.0
+2025-10-07,Amanda Martinez,East,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-10-07,Michael Scott,East,Smart RGB Light Strip,Lighting,38,34.99,14.0
+2025-10-07,Michael Scott,East,Whiteboard 4x3,Office Supplies,28,89.99,42.0
+2025-10-08,Michael Scott,East,3-Drawer Filing Cabinet,Furniture,12,179.99,95.0
+2025-10-10,James Wilson,North,Standing Desk,Furniture,3,599.99,360.0
+2025-10-10,James Wilson,North,USB-C Docking Station,Electronics,5,119.99,60.0
+2025-10-10,Sarah Jenkins,West,Ergonomic Keyboard,Electronics,30,89.99,45.0
+2025-10-11,Sarah Jenkins,West,Cross-Cut Paper Shredder,Office Supplies,22,79.99,40.0
+2025-10-11,Michael Scott,East,Heavy-Duty Stapler,Office Supplies,10,24.99,10.0
+2025-10-11,David Miller,South,Ergonomic Office Chair,Furniture,5,299.99,160.0
+2025-10-12,Emily Chen,North,Standing Desk,Furniture,4,599.99,360.0
+2025-10-13,James Wilson,North,USB-C Docking Station,Electronics,13,119.99,60.0
+2025-10-13,David Miller,South,LED Architect Desk Lamp,Lighting,32,49.99,22.0
+2025-10-15,Jessica Taylor,Central,Executive Desk,Furniture,5,850.0,520.0
+2025-10-15,James Wilson,North,Laptop Pro 15,Electronics,5,1250.0,850.0
+2025-10-16,James Wilson,North,Heavy-Duty Stapler,Office Supplies,21,24.99,10.0
+2025-10-16,Sarah Jenkins,West,Noise-Canceling Headset,Electronics,2,149.99,75.0
+2025-10-16,Emily Chen,North,Noise-Canceling Headset,Electronics,8,149.99,75.0
+2025-10-17,Emily Chen,North,3-Drawer Filing Cabinet,Furniture,13,179.99,95.0
+2025-10-17,Robert Chen,West,Heavy-Duty Stapler,Office Supplies,36,24.99,10.0
+2025-10-20,Amanda Martinez,East,27-inch 4K Monitor,Electronics,14,349.99,210.0
+2025-10-21,Amanda Martinez,East,USB-C Docking Station,Electronics,13,119.99,60.0
+2025-10-21,Amanda Martinez,East,Executive Desk,Furniture,3,850.0,520.0
+2025-10-22,Amanda Martinez,East,Standing Desk,Furniture,2,599.99,360.0
+2025-10-23,Jessica Taylor,Central,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-10-25,Jessica Taylor,Central,Whiteboard 4x3,Office Supplies,44,89.99,42.0
+2025-10-26,James Wilson,North,USB-C Docking Station,Electronics,2,119.99,60.0
+2025-10-28,Michael Scott,East,Executive Desk,Furniture,3,850.0,520.0
+2025-10-29,Sarah Jenkins,West,Ergonomic Keyboard,Electronics,17,89.99,45.0
+2025-10-31,Sarah Jenkins,West,Ergonomic Office Chair,Furniture,13,299.99,160.0
+2025-10-31,Amanda Martinez,East,Whiteboard 4x3,Office Supplies,37,89.99,42.0
+2025-10-31,James Wilson,North,Noise-Canceling Headset,Electronics,6,149.99,75.0
+2025-10-31,Robert Chen,West,Whiteboard 4x3,Office Supplies,28,89.99,42.0
+2025-10-31,David Miller,South,Standing Desk,Furniture,3,599.99,360.0
+2025-11-01,Michael Scott,East,Noise-Canceling Headset,Electronics,8,149.99,75.0
+2025-11-02,James Wilson,North,Standing Desk,Furniture,4,599.99,360.0
+2025-11-03,Michael Scott,East,3-Drawer Filing Cabinet,Furniture,1,179.99,95.0
+2025-11-03,Michael Scott,East,27-inch 4K Monitor,Electronics,11,349.99,210.0
+2025-11-04,Michael Scott,East,Standing Desk,Furniture,3,599.99,360.0
+2025-11-04,James Wilson,North,Noise-Canceling Headset,Electronics,9,149.99,75.0
+2025-11-05,Amanda Martinez,East,3-Drawer Filing Cabinet,Furniture,13,179.99,95.0
+2025-11-06,Sarah Jenkins,West,Standing Desk,Furniture,3,599.99,360.0
+2025-11-06,Sarah Jenkins,West,Ergonomic Keyboard,Electronics,49,89.99,45.0
+2025-11-07,Amanda Martinez,East,Whiteboard 4x3,Office Supplies,29,89.99,42.0
+2025-11-09,Michael Scott,East,27-inch 4K Monitor,Electronics,5,349.99,210.0
+2025-11-10,David Miller,South,Standing Desk,Furniture,2,599.99,360.0
+2025-11-10,Emily Chen,North,3-Drawer Filing Cabinet,Furniture,4,179.99,95.0
+2025-11-11,James Wilson,North,LED Architect Desk Lamp,Lighting,31,49.99,22.0
+2025-11-12,Emily Chen,North,USB-C Docking Station,Electronics,6,119.99,60.0
+2025-11-12,Robert Chen,West,Wireless Mouse,Electronics,11,29.99,12.0
+2025-11-13,Amanda Martinez,East,Executive Desk,Furniture,5,850.0,520.0
+2025-11-14,David Miller,South,Wireless Mouse,Electronics,47,29.99,12.0
+2025-11-14,James Wilson,North,LED Architect Desk Lamp,Lighting,49,49.99,22.0
+2025-11-14,Amanda Martinez,East,Wireless Mouse,Electronics,35,29.99,12.0
+2025-11-15,Michael Scott,East,LED Architect Desk Lamp,Lighting,27,49.99,22.0
+2025-11-16,Sarah Jenkins,West,Laptop Pro 15,Electronics,2,1250.0,850.0
+2025-11-17,Emily Chen,North,LED Architect Desk Lamp,Lighting,14,49.99,22.0
+2025-11-18,Jessica Taylor,Central,LED Architect Desk Lamp,Lighting,36,49.99,22.0
+2025-11-19,Jessica Taylor,Central,Smart RGB Light Strip,Lighting,47,34.99,14.0
+2025-11-19,David Miller,South,LED Architect Desk Lamp,Lighting,34,49.99,22.0
+2025-11-20,Michael Scott,East,Ergonomic Keyboard,Electronics,43,89.99,45.0
+2025-11-21,Robert Chen,West,USB-C Docking Station,Electronics,2,119.99,60.0
+2025-11-21,Emily Chen,North,Ergonomic Office Chair,Furniture,4,299.99,160.0
+2025-11-21,Michael Scott,East,Standing Desk,Furniture,2,599.99,360.0
+2025-11-22,Emily Chen,North,Executive Desk,Furniture,5,850.0,520.0
+2025-11-22,David Miller,South,27-inch 4K Monitor,Electronics,13,349.99,210.0
+2025-11-23,David Miller,South,USB-C Docking Station,Electronics,12,119.99,60.0
+2025-11-23,Robert Chen,West,Noise-Canceling Headset,Electronics,7,149.99,75.0
+2025-11-24,Jessica Taylor,Central,Ergonomic Office Chair,Furniture,2,299.99,160.0
+2025-11-25,Michael Scott,East,Laptop Pro 15,Electronics,5,1250.0,850.0
+2025-11-27,James Wilson,North,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-11-27,Jessica Taylor,Central,Cross-Cut Paper Shredder,Office Supplies,45,79.99,40.0
+2025-12-02,Michael Scott,East,Whiteboard 4x3,Office Supplies,21,89.99,42.0
+2025-12-04,Jessica Taylor,Central,LED Architect Desk Lamp,Lighting,44,49.99,22.0
+2025-12-04,James Wilson,North,USB-C Docking Station,Electronics,2,119.99,60.0
+2025-12-04,Sarah Jenkins,West,3-Drawer Filing Cabinet,Furniture,12,179.99,95.0
+2025-12-06,Sarah Jenkins,West,Smart RGB Light Strip,Lighting,28,34.99,14.0
+2025-12-06,Robert Chen,West,Wireless Mouse,Electronics,49,29.99,12.0
+2025-12-06,Sarah Jenkins,West,Noise-Canceling Headset,Electronics,3,149.99,75.0
+2025-12-07,Sarah Jenkins,West,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-12-08,Amanda Martinez,East,Executive Desk,Furniture,2,850.0,520.0
+2025-12-08,Emily Chen,North,Laptop Pro 15,Electronics,1,1250.0,850.0
+2025-12-08,Amanda Martinez,East,27-inch 4K Monitor,Electronics,2,349.99,210.0
+2025-12-09,Amanda Martinez,East,Standing Desk,Furniture,4,599.99,360.0
+2025-12-10,Robert Chen,West,Laptop Pro 15,Electronics,4,1250.0,850.0
+2025-12-10,Amanda Martinez,East,27-inch 4K Monitor,Electronics,14,349.99,210.0
+2025-12-11,Sarah Jenkins,West,USB-C Docking Station,Electronics,5,119.99,60.0
+2025-12-11,James Wilson,North,USB-C Docking Station,Electronics,13,119.99,60.0
+2025-12-12,Robert Chen,West,Smart RGB Light Strip,Lighting,26,34.99,14.0
+2025-12-12,Robert Chen,West,Whiteboard 4x3,Office Supplies,8,89.99,42.0
+2025-12-12,David Miller,South,Cross-Cut Paper Shredder,Office Supplies,24,79.99,40.0
+2025-12-12,Robert Chen,West,Ergonomic Office Chair,Furniture,4,299.99,160.0
+2025-12-12,David Miller,South,Laptop Pro 15,Electronics,2,1250.0,850.0
+2025-12-14,Robert Chen,West,Executive Desk,Furniture,4,850.0,520.0
+2025-12-15,Emily Chen,North,Laptop Pro 15,Electronics,3,1250.0,850.0
+2025-12-15,Sarah Jenkins,West,Cross-Cut Paper Shredder,Office Supplies,21,79.99,40.0
+2025-12-15,Robert Chen,West,Heavy-Duty Stapler,Office Supplies,16,24.99,10.0
+2025-12-15,Sarah Jenkins,West,Executive Desk,Furniture,1,850.0,520.0
+2025-12-15,Sarah Jenkins,West,Ergonomic Keyboard,Electronics,14,89.99,45.0
+2025-12-16,Jessica Taylor,Central,LED Architect Desk Lamp,Lighting,5,49.99,22.0
+2025-12-17,Robert Chen,West,Ergonomic Office Chair,Furniture,6,299.99,160.0
+2025-12-18,Michael Scott,East,Ergonomic Keyboard,Electronics,30,89.99,45.0
+2025-12-18,Jessica Taylor,Central,Heavy-Duty Stapler,Office Supplies,22,24.99,10.0
+2025-12-20,Michael Scott,East,Heavy-Duty Stapler,Office Supplies,18,24.99,10.0
+2025-12-21,Sarah Jenkins,West,Cross-Cut Paper Shredder,Office Supplies,33,79.99,40.0
+2025-12-21,Sarah Jenkins,West,Laptop Pro 15,Electronics,4,1250.0,850.0
+2025-12-23,Jessica Taylor,Central,Cross-Cut Paper Shredder,Office Supplies,40,79.99,40.0
+2025-12-25,Jessica Taylor,Central,Cross-Cut Paper Shredder,Office Supplies,39,79.99,40.0
+2025-12-25,Michael Scott,East,Heavy-Duty Stapler,Office Supplies,16,24.99,10.0
+2025-12-26,David Miller,South,Ergonomic Office Chair,Furniture,7,299.99,160.0
+2025-12-26,Michael Scott,East,Ergonomic Keyboard,Electronics,33,89.99,45.0
+2025-12-26,Jessica Taylor,Central,Wireless Mouse,Electronics,15,29.99,12.0
+2025-12-26,James Wilson,North,Laptop Pro 15,Electronics,1,1250.0,850.0
+2025-12-26,Jessica Taylor,Central,Heavy-Duty Stapler,Office Supplies,10,24.99,10.0
+2025-12-30,James Wilson,North,Ergonomic Keyboard,Electronics,19,89.99,45.0
+2025-12-31,Emily Chen,North,Whiteboard 4x3,Office Supplies,36,89.99,42.0
+2025-12-31,Jessica Taylor,Central,Wireless Mouse,Electronics,15,29.99,12.0
